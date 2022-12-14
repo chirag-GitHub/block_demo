@@ -1,0 +1,1 @@
+enum ListStatus { initiate, loading, success, failure }
